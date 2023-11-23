@@ -89,7 +89,7 @@ print(f"Best Distance: {best_distance}")
 
 
 # Link to run if this copy paste is not working
-https://replit.com/@vigneshm2021csb/Travelling-sales-man-problem
+https://replit.com/@vigneshm2021csb/Travelling-sales-man-problem#main.py
 
 # input
 num_cities = 10
